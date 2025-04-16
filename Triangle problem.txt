@@ -1,0 +1,13 @@
+ALGORITHM OF HEIGHT OF TRIANGLE:
+
+1-Declare black balls list 
+2-Declare White balls list
+3-make condition on black and white list
+4-white list cant be greater than or equal to 100
+5-black list cant be less than or equal to 1
+6-make a loop that goes through every list to check if it can take balls
+6.1-do reminder to see if it is even or odd and minus one from each list when ball is taken
+6.2-track the height of the triangle 
+6.2-when there is no ball can be taken break loop
+7-display the output 
+
